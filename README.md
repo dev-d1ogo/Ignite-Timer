@@ -17,7 +17,7 @@ This project was made with React and some other libraries such as heact-hook for
 <p align="center">
  <h1 align="center"> Dark Mode </h1>
  <br>
- <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/7a65e76f-084e-4201-bc21-04033e99de99>
+ <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/8d25f774-7552-4fb5-b5bf-c361e2830de1>
 </p>
 
 <br>
