@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 Ignite Timer is a project to practice knowledge about React.
-- [Access the finished project online](https://p4peldebala.github.io/Formulario_MultiStep/)
+- [Access the finished project online](https://ignite-timer-seven-theta.vercel.app)
 
 
 ## 🔖 Layout
