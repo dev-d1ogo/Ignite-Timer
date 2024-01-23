@@ -15,6 +15,7 @@ This project was made with React and some other libraries such as heact-hook for
 </p>
 
 <p align="center">
+ <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/7aa1f6fc-9e97-4bed-b42f-63a6bc24c142>
 </p>
 
 <br>
