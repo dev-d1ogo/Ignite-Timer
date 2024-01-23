@@ -15,17 +15,24 @@ This project was made with React and some other libraries such as heact-hook for
 </p>
 
 <p align="center">
- Dark Mode
- <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/6ac40ae2-07bc-44c5-bf30-1a067510a6c7>
+ <h1 align="center"> Dark Mode </h1>
+ <br>
+ <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/7a65e76f-084e-4201-bc21-04033e99de99>
 </p>
+
+<br>
 <p align="center">
- Light Mode
- <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/6ac40ae2-07bc-44c5-bf30-1a067510a6c7>
+ <h1 align="center"> Light Mode </h1>
+ <br>
+ <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/7a65e76f-084e-4201-bc21-04033e99de99>
 </p>
 <br>
-
-
-
+<p align="center">
+ <h1 align="center"> History Page </h1>
+ <br>
+ <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/c292315a-abe5-4f43-8c63-303200c30cad>
+</p>
+<br>
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
