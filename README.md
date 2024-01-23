@@ -15,9 +15,13 @@ This project was made with React and some other libraries such as heact-hook for
 </p>
 
 <p align="center">
- <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/ff2e89d3-a9c9-494d-ab66-94bee7f975b7>
+ Dark Mode
+ <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/6ac40ae2-07bc-44c5-bf30-1a067510a6c7>
 </p>
-
+<p align="center">
+ Light Mode
+ <img src = https://github.com/p4peldebala/Ignite-Timer/assets/120611995/6ac40ae2-07bc-44c5-bf30-1a067510a6c7>
+</p>
 <br>
 
 
